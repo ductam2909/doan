@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "63861700ba641b38449b7a0e"
+  },
+  "profilePicUrl": "https://www.gravatar.com/avatar/?d=mp",
+  "role": "user",
+  "name": "nguyen duc tam",
+  "email": "admin@gmail.com",
+  "password": "$2a$10$Xi.o.NzlWGou0P1JH1hUEeFTVPp3KF3xxd7Vw.5K1z0mWOeWz8m0i",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669732096269"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669732096269"
+    }
+  },
+  "__v": 0
+}]

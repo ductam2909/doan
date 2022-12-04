@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "6376290f0d19b24a18332d42"
+  },
+  "role": "user",
+  "name": "Nguyễn Đức Tâm",
+  "email": "tam@gmail.com",
+  "password": "$2a$10$4UhOPU.VvnTSV.VPoiHereECdvPqqJNs2SiYcyDPHtIr246890W/S",
+  "phone": "0983449642",
+  "address": "tam xuân 2 núi thành quảng nam",
+  "avatar": "https://res.cloudinary.com/duwafqtaz/image/upload/v1668688141/traveldn/ovam3om6gmjv5huafkb4.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668688143554"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668688143554"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637629460d19b24a18332d47"
+  },
+  "role": "user",
+  "name": "Phạm Ngọc bảo",
+  "email": "bao@gmail.com",
+  "password": "$2a$10$lIlrdazHBtGp95up9prxEuh90YlaXdG8I3mIgQ53ls1KT19bfwzOu",
+  "phone": "0987654321",
+  "address": "tam xuân 2 núi thành quảng nam m",
+  "avatar": "https://res.cloudinary.com/duwafqtaz/image/upload/v1669272128/traveldn/iorjihn7mu8cpcyd5fvr.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668688199167"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669272140100"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637f330c450d2303a0dc82e0"
+  },
+  "role": "user",
+  "name": "Nguyễn đức Tâm",
+  "email": "tam29@gmail.com",
+  "password": "$2a$10$zxCJR8nfLI3nXGBqSpJ8l.gLz8EMb3.zFHGCjg7aeNcf50H2dJA1.",
+  "phone": "+84383922713",
+  "address": "tam xuân 2 núi thành quảng nam",
+  "avatar": "https://res.cloudinary.com/duwafqtaz/image/upload/v1669280520/traveldn/vyf1xqwkgbidmnn77dhp.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669280524333"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669280524333"
+    }
+  },
+  "__v": 0
+}]

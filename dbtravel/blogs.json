@@ -1,0 +1,221 @@
+[{
+  "_id": {
+    "$oid": "337db88b5f00f343f4742e56"
+  },
+  "name": "hs",
+  "detail": "w",
+  "avatar": "https://res.cloudinary.com/duwafqtaz/image/upload/v1669183622/traveldn/afcqvtizewwbofwopkgg.jpg",
+  "status": "đã duyệt",
+  "category": "Ẩm thực",
+  "description": "<p>sssss</p>",
+  "idUser": "637629460d19b24a18332d47",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669183627627"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669183735296"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "337e3431b8605228847e6ef8"
+  },
+  "name": "Bún mắm đà nẵng",
+  "detail": "Bún mắm, thức ăn dân dã đời thường lại giữ một vị trí quan trọng khó quên trong tiềm thức của những người dân nơi đây và những vị thực khách phương xa. Đây là món ăn đặc sản mà bạn không thể bỏ qua khi đi tour du lịch Đà Nẵng, chỉ cần đi ngang qua quầy nghe mùi thơm thôi là đã không thể kiềm được cảm xúc thèm muốn được thưởng thức ngay 1 tô bún mắm Đà Nẵng.",
+  "avatar": "https://res.cloudinary.com/duwafqtaz/image/upload/v1669215262/traveldn/mxzkknecrpwj82ptja1y.jpg",
+  "status": "đã duyệt",
+  "category": "Ẩm thực",
+  "description": "<h4 class=\"ql-align-justify\"><strong>BÚN MẮM ĐÀ NẴNG MÓN ĂN ĐÁNH THỨC VỊ GIÁC NGŨ QUÊN</strong></h4><p class=\"ql-align-justify\"><strong><em>Bún mắm từ lâu đã trở thành đặc sản vùng đất nắng gió miền Trung</em></strong>. Bởi nguyên liệu chính để làm nên món này ngoài bún ra đó chính là mắm nêm. Mắm được làm từ cá biển, tẩm ướp thep phương pháp gia truyền rồi chưng cất, mắm khi chín sẽ có mùi thơm đặc biệt, lan tỏa, thách thức mọi giác quan.</p><p><img src=\"https://webdulichdanang.com/wp-content/uploads/2019/03/bun-mam-da-nang.jpg\" alt=\"Bún mắm Đà Nẵng\" height=\"533\" width=\"800\"><em>Bún mắm Đà Nẵng</em></p><p class=\"ql-align-justify\"><em>Món ăn là sự kết hợp hài hào giữa mùi thơm của gạo tù cọng bún, hương vị mắm nêm thơm lừng, rau thơm, và không quên vị bùi bùi béo béo của mít non và đậu phông rang</em>. Ăn vào cảm nhận từng hương vị, từ vị cay của ớt đến cái mặn mà của mắm, tất cả đã làm nên tô bún mắm khó quên trong lòng những người dân nơi đây và cả du khách gần xa đã từng 1 lần thưởng thức.</p><p class=\"ql-align-justify\"><strong>Chuẩn bị nguyên liệu làm món bún mắm</strong></p><p class=\"ql-align-justify\">Chuẩn bị nguyên liệu: bún, thịt heo (luộc) , dưa leo, rau xà lách, rau thơm, mít non, mắm nêm, tỏi, ớt, chanh, thơm và các gia vị kèm theo.</p><p class=\"ql-align-justify\"><strong>Cách chế biến món bún mắm</strong></p><p class=\"ql-align-justify\">– Rau sống nhặt, rửa sach, để ráo nước, dưa leo cắt nhỏ vừa ăn.</p><p class=\"ql-align-justify\">– Mít non luộc chín, cắt hạt lựu</p><p class=\"ql-align-justify\">– Cho hành tím vào chảo nóng phi vàng, thêm màu hạt điều hoặc bột ớt, để nguội.</p><p class=\"ql-align-justify\">– Công đoạn làm mắm phải lựa chọn loại mắm ngon, nguyên chất, có mùi thơm. Thơm sắt nhuyễn cho vào mắm, thêm ớt, đường, bột ngọt, chanh, dầu điều đã làm, nêm vừa ăn.</p><p><img src=\"https://webdulichdanang.com/wp-content/uploads/2019/03/bunmamdanang4.jpg\" alt=\"Bún mắm Đà Nẵng\" height=\"533\" width=\"800\"><em>Bún mắm Đà Nẵng</em></p><p class=\"ql-align-justify\"><strong>Trình bày sao cho mọi bún mắm vừa ngon miệng lại đẹp mắt</strong></p><p class=\"ql-align-justify\">– Rau được xếp dưới cùng, đến bùn rồi đến thịt cắt lát. Cho mít non và đậu phộng lên trên. Thêm dưa leo vào tô.</p><p class=\"ql-align-justify\">– Chan mắm vừa ăn, thêm dầu điều phi hành vào. Ăn kèm tương ớt cay thì ngon hết xảy.</p><p class=\"ql-align-justify\">– Trước khi ăn trộn đều cho thấm gia vị và các món ăn kèm với nhau. Thưởng thức đến đâu nghiện đến đó.</p><p class=\"ql-align-justify\"><strong>Du lịch Đà Nẵng</strong>&nbsp;đừng bỏ qua món bún mắm độc đáo này nhé</p><p><br></p>",
+  "idUser": "637629460d19b24a18332d47",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669215281975"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669215885928"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "337fa1d125232301781085c1"
+  },
+  "name": "đ",
+  "detail": "d",
+  "avatar": "https://res.cloudinary.com/duwafqtaz/image/upload/v1669308874/traveldn/fhmqbhnbyzrvbkofroj7.jpg",
+  "status": "đã duyệt",
+  "category": "Ẩm thực",
+  "description": "<p>hshshshsh hshsh</p>",
+  "idUser": "637f330c450d2303a0dc82e0",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669308881173"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669308902218"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "3382bd0f444a7b44740cbf1b"
+  },
+  "name": "Bún mắm",
+  "detail": "Bún mắm, thức ăn dân dã đời thường lại giữ một vị trí quan trọng khó quên trong tiềm thức của những người dân nơi đây và những vị thực khách phương xa. Đây là món ăn đặc sản mà bạn không thể bỏ qua khi đi tour du lịch Đà Nẵng, chỉ cần đi ngang qua quầy nghe mùi thơm thôi là đã không thể kiềm được cảm xúc thèm muốn được thưởng thức ngay 1 tô bún mắm Đà Nẵng.",
+  "avatar": "https://res.cloudinary.com/duwafqtaz/image/upload/v1669512441/traveldn/ak1oypscia7sozp5bvab.jpg",
+  "status": "đã duyệt",
+  "category": "Tin tức",
+  "description": "<h4 class=\"ql-align-justify\"><strong>BÚN MẮM ĐÀ NẴNG MÓN ĂN ĐÁNH THỨC VỊ GIÁC NGŨ QUÊN</strong></h4><p class=\"ql-align-justify\"><strong><em>Bún mắm từ lâu đã trở thành đặc sản vùng đất nắng gió miền Trung</em></strong>. Bởi nguyên liệu chính để làm nên món này ngoài bún ra đó chính là mắm nêm. Mắm được làm từ cá biển, tẩm ướp thep phương pháp gia truyền rồi chưng cất, mắm khi chín sẽ có mùi thơm đặc biệt, lan tỏa, thách thức mọi giác quan.</p><p><img src=\"https://webdulichdanang.com/wp-content/uploads/2019/03/bun-mam-da-nang.jpg\" alt=\"Bún mắm Đà Nẵng\" height=\"533\" width=\"800\"><em>Bún mắm Đà Nẵng</em></p><p class=\"ql-align-justify\"><em>Món ăn là sự kết hợp hài hào giữa mùi thơm của gạo tù cọng bún, hương vị mắm nêm thơm lừng, rau thơm, và không quên vị bùi bùi béo béo của mít non và đậu phông rang</em>. Ăn vào cảm nhận từng hương vị, từ vị cay của ớt đến cái mặn mà của mắm, tất cả đã làm nên tô bún mắm khó quên trong lòng những người dân nơi đây và cả du khách gần xa đã từng 1 lần thưởng thức.</p><p class=\"ql-align-justify\"><strong>Chuẩn bị nguyên liệu làm món bún mắm</strong></p><p class=\"ql-align-justify\">Chuẩn bị nguyên liệu: bún, thịt heo (luộc) , dưa leo, rau xà lách, rau thơm, mít non, mắm nêm, tỏi, ớt, chanh, thơm và các gia vị kèm theo.</p><p class=\"ql-align-justify\"><strong>Cách chế biến món bún mắm</strong></p><p class=\"ql-align-justify\">– Rau sống nhặt, rửa sach, để ráo nước, dưa leo cắt nhỏ vừa ăn.</p><p class=\"ql-align-justify\">– Mít non luộc chín, cắt hạt lựu</p><p class=\"ql-align-justify\">– Cho hành tím vào chảo nóng phi vàng, thêm màu hạt điều hoặc bột ớt, để nguội.</p><p class=\"ql-align-justify\">– Công đoạn làm mắm phải lựa chọn loại mắm ngon, nguyên chất, có mùi thơm. Thơm sắt nhuyễn cho vào mắm, thêm ớt, đường, bột ngọt, chanh, dầu điều đã làm, nêm vừa ăn.</p><p><img src=\"https://webdulichdanang.com/wp-content/uploads/2019/03/bunmamdanang4.jpg\" alt=\"Bún mắm Đà Nẵng\" height=\"533\" width=\"800\"><em>Bún mắm Đà Nẵng</em></p><p class=\"ql-align-justify\"><strong>Trình bày sao cho mọi bún mắm vừa ngon miệng lại đẹp mắt</strong></p><p class=\"ql-align-justify\">– Rau được xếp dưới cùng, đến bùn rồi đến thịt cắt lát. Cho mít non và đậu phộng lên trên. Thêm dưa leo vào tô.</p><p class=\"ql-align-justify\">– Chan mắm vừa ăn, thêm dầu điều phi hành vào. Ăn kèm tương ớt cay thì ngon hết xảy.</p><p class=\"ql-align-justify\">– Trước khi ăn trộn đều cho thấm gia vị và các món ăn kèm với nhau. Thưởng thức đến đâu nghiện đến đó.</p><p class=\"ql-align-justify\"><strong>Du lịch Đà Nẵng</strong>&nbsp;đừng bỏ qua món bún mắm độc đáo này nhé</p><p><br></p>",
+  "idUser": "637f330c450d2303a0dc82e0",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669512463583"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669614186238"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "338456630752454348577e0b"
+  },
+  "name": "NHỮNG MÓN ĂN ĐẶC SẢN NGON BỔ RẺ TẠI ĐÀ NẴNG DU KHÁCH NÊN ĐỌC",
+  "detail": "Những món ăn đặc sản ngon bổ rẻ tại Đà Nẵng du khách nên đọc – Đến với thành phố biển xinh đẹp Đà Nẵng, du khách không những được tham quan các 1 nổi tiếng mà còn có cơ hội trải nghiệm văn hóa ẩm thực đặc sắc của người dân địa phương nơi đây. Hãy cùng chúng tôi điểm qua những món ăn ngon bổ rẻ khi đặt tour du lịch Đà Nẵng Huế trọn gói giá rẻ ",
+  "avatar": "https://res.cloudinary.com/duwafqtaz/image/upload/v1669617218/traveldn/vvviu9zfx3iroeugjeqe.jpg",
+  "status": "đã duyệt",
+  "category": "Tin tức",
+  "description": "<h2>3 NÉT ĐẸP ĐẶC TRƯNG TRONG VĂN HÓA CON NGƯỜI ĐÀ NẴNG</h2><p class=\"ql-align-justify\"><strong>3 nét đẹp đặc trưng trong văn hóa con người Đà Nẵng</strong>&nbsp;–&nbsp;Là một trong những đất nước sở hữu nền văn hóa đa dạng, trải dài từ Bắc đến Nam, văn hóa Việt Nam chứa đựng nhiều nét văn hóa đặc sắc. Đà Nẵng với vị trí là trung tâm miền Trung, nơi lưu giữ văn hóa Chăm pa cổ xưa với nhiều công trình kiến trúc quy mô đồ sộ. Hãy cùng khám phá 3 nét đẹp đặc trưng trong văn hóa con người Đà Nẵng qua bài viết dưới đây.</p><h3 class=\"ql-align-justify\"><strong>Ấn tượng ngôn ngữ Đà Nẵng&nbsp;</strong></h3><p class=\"ql-align-justify\">Làm thế nào để cảm nhận vẻ đẹp quyến rũ nơi con người Đà Nẵng? Ngắm nhìn thôi chưa đủ, mà giao tiếp với người Đà Nẵng mới là điều đáng nói. Có nhiều người nghĩ “trở ngại” lớn nhất khi đi du lịch Đà Nẵng chính là vấn đề ngôn ngữ. Nếu bạn đến từ các tỉnh thành phía Bắc thì thật khó có thể nghe rõ những gì người miền trong nói chứ không phải chỉ mỗi miền đất Đà Thành, đây quả thực là một điều không hề đơn giản. Nhưng với những ai đã trót đem lòng yêu Đà Nẵng, thì thứ ngôn ngữ này hóa dễ thương đến vô cùng.</p><p><img src=\"https://webdulichdanang.com/wp-content/uploads/2019/02/con-nguoi-da-nang-03.jpg\" height=\"534\" width=\"800\"></p>",
+  "idUser": "637f330c450d2303a0dc82e0",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669617251471"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669617274454"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6384fdcfcc05833d8047c79e"
+  },
+  "name": "ss",
+  "detail": "ssddđ",
+  "avatar": "https://res.cloudinary.com/duwafqtaz/image/upload/v1669660108/traveldn/f8todpz7k8hzcebpeua3.jpg",
+  "status": "đã duyệt",
+  "description": "<p>ssssssscasc</p>",
+  "idUser": "637f330c450d2303a0dc82e0",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669660111481"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669660111481"
+    }
+  },
+  "__v": 0,
+  "category": "Tin tức"
+},{
+  "_id": {
+    "$oid": "6385cb027ad3ed3f08e69640"
+  },
+  "name": "ẩm thực 1",
+  "detail": "ddd",
+  "avatar": "https://res.cloudinary.com/duwafqtaz/image/upload/v1669712640/traveldn/a7zwlr91ufaiaqo0vvpz.jpg",
+  "status": "đã duyệt",
+  "category": "Ẩm thực",
+  "description": "<p>ddddddd</p>",
+  "idUser": "637f330c450d2303a0dc82e0",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669712642648"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669712800246"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6385cc387ad3ed3f08e696e0"
+  },
+  "name": "NHỮNG MÓN ĂN ĐẶC SẢN NGON BỔ RẺ TẠI ĐÀ NẴNG DU KHÁCH NÊN ĐỌC",
+  "detail": "Những món ăn đặc sản ngon bổ rẻ tại Đà Nẵng du khách nên đọc – Đến với thành phố biển xinh đẹp Đà Nẵng, du khách không những được tham quan các điểm đến nổi tiếng mà còn có cơ hội trải nghiệm văn hóa ẩm thực đặc sắc của người dân địa phương nơi đây. Hãy cùng chúng tôi điểm qua những món ăn ngon bổ rẻ khi đặt tour du lịch Đà Nẵng Huế trọn gói giá rẻ ",
+  "avatar": "https://res.cloudinary.com/duwafqtaz/image/upload/v1669712947/traveldn/te948eqffapwf1mfolgz.jpg",
+  "status": "đã duyệt",
+  "category": "Tin tức",
+  "description": "<p>sssssss</p>",
+  "idUser": "637f330c450d2303a0dc82e0",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669712952701"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669713005886"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63861045579bfa430cbb1e28"
+  },
+  "name": "3 NÉT ĐẸP ĐẶC TRƯNG TRONG VĂN HÓA CON NGƯỜI ĐÀ NẴNG",
+  "detail": "3 nét đẹp đặc trưng trong văn hóa con người Đà Nẵng  – Là một trong những đất nước sở hữu nền văn hóa đa dạng, trải dài từ Bắc đến Nam, văn hóa Việt Nam chứa đựng nhiều nét văn hóa đặc sắc. Đà Nẵng với vị trí là trung tâm miền Trung, nơi lưu giữ văn hóa Chăm pa cổ xưa với nhiều công trình kiến trúc quy mô đồ sộ",
+  "avatar": "https://res.cloudinary.com/duwafqtaz/image/upload/v1669730338/traveldn/locnnifhlu7yynz0b2z4.jpg",
+  "status": "đã duyệt",
+  "category": "Tin tức",
+  "description": "<h3 class=\"ql-align-justify\"><strong>Êm đềm nhịp sống Đà Thành&nbsp;</strong></h3><p class=\"ql-align-justify\">Đà Nẵng là một trung tâm kinh tế hàng đầu khu vực miền Trung, cũng là một trong những thành phố lớn trực thuộc trung ương của Việt Nam. Nhưng có một điều khác biệt nhất làm cho Đà Nẵng trở thành duy nhất, khiến cho ai đến đây cũng phải thốt lên “Tại sao khung cảnh bình yên đến vậy?” Thoát ra khỏi sự xô bồ, ồn ào và náo nhiệt ở những thành phố lớn như Hà Nội, TP HCM, bạn không cần phải chọn ghé thăm làng quê hay nông thôn, hãy đến Đà Nẵng để tinh thần được thanh lọc một cách đúng nghĩa.</p><p class=\"ql-align-justify\">Vì sao con người Đà Nẵng lại chọn “sống” theo cách riêng của mình vậy? Họ tự do tự tại, nhưng lại quá đỗi nhẹ nhàng và tự nhiên. Họ đã và đang hưởng thụ cuộc sống thường ngày của mình. Kẹt xe như một điều lạ lẫm, cãi nhau xô xát như một thứ không nằm trong từ điển,… mọi thứ đều trong trẻo và ngây thơ và có lẽ vẻ đẹp quý báu của thiên nhiên ban tặng đã thuần hóa con người nơi đây.</p><h3 class=\"ql-align-justify\"><strong>Ấn tượng ngôn ngữ Đà Nẵng&nbsp;</strong></h3><p class=\"ql-align-justify\">Làm thế nào để cảm nhận vẻ đẹp quyến rũ nơi con người Đà Nẵng? Ngắm nhìn thôi chưa đủ, mà giao tiếp với người Đà Nẵng mới là điều đáng nói. Có nhiều người nghĩ “trở ngại” lớn nhất khi đi du lịch Đà Nẵng chính là vấn đề ngôn ngữ. Nếu bạn đến từ các tỉnh thành phía Bắc thì thật khó có thể nghe rõ những gì người miền trong nói chứ không phải chỉ mỗi miền đất Đà Thành, đây quả thực là một điều không hề đơn giản. Nhưng với những ai đã trót đem lòng yêu Đà Nẵng, thì thứ ngôn ngữ này hóa dễ thương đến vô cùng.</p><p><img src=\"https://webdulichdanang.com/wp-content/uploads/2019/02/con-nguoi-da-nang-03.jpg\" height=\"534\" width=\"800\"><em>Cảnh đẹp trong một cuộc thi</em></p><p class=\"ql-align-justify\">Đâu chỉ chi, mô, răng, rứa, ni, nớ,… người Đà Nẵng sẽ chọn lọc những từ ngữ mang nghĩa dễ nghe nhất, phổ thông nhất để thể hiện sự hiếu khách của mình. Nhưng giữa những người dân địa phương nói chuyện với nhau, họ cũng dùng những câu nói ngắn gọn, hàm ý, súc tích thể hiện sự thông minh – nói ít hiểu nhiều.</p><p class=\"ql-align-justify\">Dân gian có câu “Quảng Nam hay cãi, Quảng Ngãi hay lo”, và điều này cũng đúng với người Đà Nẵng. Nhưng lạ thay cái tính “hay cãi” đó không hề để lại ấn tượng xấu trong lòng du khách thập phương mà lại là một trong những đặc điểm độc đáo cuốn hút du khách phương xa.</p><p class=\"ql-align-justify\">Sự hồn hậu trong giọng điệu của con người Đà Nẵng sẽ khiến bạn cảm nhận được vẻ đẹp nơi ngôn ngữ của họ. “Đậm đà” trong ngôn từ và “gấp rút” trong nhịp điệu là những gì bạn có thể thấy được trong cách nói chuyện của người dân địa phương, nhưng ‘trước lạ sau quen”, hãy thử tiếp xúc nhiều với họ, bạn sẽ tự xây dựng nên cho mình một cuốn từ điển khoa học về ngôn ngữ của chính mình khi đi du lịch Đà Nẵng.</p><h3 class=\"ql-align-justify\">T<strong>hân thiện con người Đà Nẵng</strong></h3><p class=\"ql-align-justify\">Cẩm nang du lịch Đà Nẵng xin phép được dùng 3 từ để miêu tả nét đặc trưng trong văn hóa tính cách con người Đà Nẵng:</p><ul><li class=\"ql-align-justify\">An nhiên</li><li class=\"ql-align-justify\">Hiếu khách</li><li class=\"ql-align-justify\">Nhiệt tình</li></ul><p class=\"ql-align-justify\">Vì sao vậy? An nhiên là cách họ đối mặt với cuộc sống, bình thản và chậm rãi. Những ồn ã của chốn phồn hoa đô thị, những xô bồ lai tạp không hề bị lấn át phai mờ những đặc trưng riêng của con người xứ Đà Thành. Họ chăm chỉ và lặng lẽ đắm mình trong không khí trong lành của biển cả, trong không gian màu sắc của hàng ngàn cảnh quan, trong nhịp sông Hàn chậm chạp xuyên suốt long mạch.</p><p><img src=\"https://webdulichdanang.com/wp-content/uploads/2019/02/con-nguoi-da-nang-02.jpg\" height=\"533\" width=\"800\"><em>Người Đà Nẵng chụp ảnh cùng khách nước ngoài</em></p><p class=\"ql-align-justify\">Bản tính hiếu khách là đặc trưng của người miền biển, khi đi&nbsp;tour du lịch Đà Nẵng&nbsp;bạn sẽ được tiếp đón một cách xứng đáng. Không chỉ là những khách sạn lớn san trọng, mà sự chuyên nghiệp cũng được thể hiện tại các hostel, homestay xinh xắn. Những người phục vụ, những vị chủ quán hàng luôn đặt nụ cười như “vật” bất ly thân. Từ cử chỉ vẫy tay chào, những câu “dạ, vâng” đi vào lòng người, hay tiếng gọi “con” của những người lớn tuổi cũng khiến ta cảm thấy thân thiết và gần gũi đến lạ.</p><p class=\"ql-align-justify\">Còn nhiệt tình thì sao? Họ nhiệt tình đến mức quên cả lợi nhuận của mình, nhưng có lẽ chính bởi vậy nên cũng dễ gặp thiệt thòi. Lạc đường ư? Đến với du lịch Đà Nẵng bạn không phải lo lắng điều đó, người dân họ nhiệt tình, chỉ cần hỏi là đc, thậm chí còn được họ dẫn đường tận nơi mà không phải ngại về vấn đề an toàn. Họ hiền, dễ mến, đôi chút e ngại nhưng lại vô cùng nhiệt tình khi giúp đỡ những vị khách quý. Chắc người Đà Nẵng đã quá quen với việc đón tiếp khách du lịch khi nơi đây thường xuyên tổ chức những sự kiện lớn mang tầm cỡ quốc tế như Lễ hội pháo hoa quốc tế, Lễ hội chào mừng ngày du lịch Việt Nam,…</p><p class=\"ql-align-justify\">Mà cũng bởi người Đà thành sống trong vô vàn cái đẹp, họ sở hữu những thứ tuyệt vời đến đáng nể và chính họ cũng là những nhân tố làm nên điều kì diệu đó. Những người đến với du lịch Đà Nẵng phần vì Hội An, phần vì biển, phần vì Bà Nà, và vì giá du lịch Đà Nẵng rẻ,… rất nhiều lý do khác nữa. Nhưng điều khiến họ quay lại đây chính là văn hóa con người Đà Nẵng, một tình yêu với một cảm xúc được xác định rõ ràng mang tên Đà Nẵng.</p><p><br></p>",
+  "idUser": "637f330c450d2303a0dc82e0",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669730373837"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669730856635"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63861215b4931c1128306ccb"
+  },
+  "name": "TOP 8 CÂY CẦU ĐÀ NẴNG",
+  "detail": "Đà Nẵng không chỉ nổi tiếng những địa điểm du lịch nổi tiếng như: Bà Nà Hills, các bãi biển đẹp, những dịch vụ du lịch đẳng cấp mà còn nổi tiếng bởi những cây cầu là biểu tượng đặc trưng, mang nét quyến rũ khi bắt ngang sông Hàn. Hãy cùng Web Du Lịch Đà Nẵng điểm qua những cây cầu nổi tiếng của Đà Nẵng.",
+  "avatar": "https://res.cloudinary.com/duwafqtaz/image/upload/v1669730746/traveldn/guhmt5krhcucywi1d3vf.jpg",
+  "status": "đã duyệt",
+  "category": "Điểm đến",
+  "description": "<h3 class=\"ql-align-justify\"><strong>1. Cầu Sông Hàn – Biểu tượng đặc trưng của du lịch Đà Nẵng</strong></h3><p>Cầu Sông Hàn hay còn có tên Cầu Xoay Sông Hàn, là một trong những cây cầu mang niềm tự hoà của người dân Đà Nẵng. Nó nổi tiếng bởi có thể dịch chuyển xoay ngang 90 độ khi có thuyền di chuyển từ trung tâm Đà Nẵng ra biển.</p><p class=\"ql-align-center\"><img src=\"https://webdulichdanang.com/wp-content/uploads/2018/02/cau-song-han.png\" height=\"700\" width=\"1800\"><em>Cầu sông Hàn</em></p><h3><br></h3><h3><strong>2. Cầu Thuận Phước – Cầu dây văng cao nhất tại Đà Nẵng</strong></h3><p class=\"ql-align-justify\"><strong>Cầu Thuận Phước</strong>&nbsp;là một trong cây cầu cao nhất trong các cây cầu bắt ngang sông Hàn, nằm tại vị trí đầu tiên từ cửa biển và trung tâm Đà Nẵng và là cây cầu dây văng lớn nhất Việt Nam. Đây là vị trí rất thích hợp để bạn có thể ngắm toàn cảnh TP Đà Nẵng về đêm.</p><p class=\"ql-align-center\"><img src=\"https://webdulichdanang.com/wp-content/uploads/2021/07/cau-thuan-phuoc.jpeg\" height=\"667\" width=\"1000\"><em>Cầu Thuận Phước</em></p><h3><br></h3><h3><strong>3. Cầu Rồng – cầu phun nước và lửa của Đà Nẵng</strong></h3><p class=\"ql-align-justify\">Cầu Rồng một trong cây cầu nổi tiếng khi nhắc đến Đà nẵng, là một biểu tượng mới cho sự phát triển của Đà Nẵng. Với hình dáng một con rồng dài 500m uốn lượn vươn cao hướng ra biển Đông. Vào 21h00 thứ 7 và Chủ Nhật cầu Rồng sẽ phun lửa và phun nước, phục vụ cho khách du lịch chiên ngưỡng cầu Rồng về đêm.</p><p class=\"ql-align-center\"><img src=\"https://webdulichdanang.com/wp-content/uploads/2019/03/cau-rong-da-nang.jpg\" height=\"533\" width=\"800\"><em>Cầu Rồng</em></p><h3><br></h3><h3><strong>4. Cầu Trần Thị Lý – cây cầu hình dáng cánh buồm vươn ra biển&nbsp;</strong></h3><p class=\"ql-align-justify\">Với vẻ đẹp mềm mại, thanh thoát đầy nữ tính nhưng không không kém phần độc đáo, hiện đại, cầu Trần Thị Lý đã trở thành một điểm thăm quan hấp dẫn nhiều du khách đến chiêm ngưỡng và chụp ảnh, lưu lại nhiều kỉ niệm đẹp mỗi khi có dịp du lịch Đà Nẵng. Và hơn cả một công trình kiến trúc làm đẹp cho thành phố, cầu Trần Thị Lý còn là niềm tự hào của người dân Đà Nẵng về sự lao động hăng say và sáng tạo tuyệt vời.</p><p class=\"ql-align-center\"><img src=\"https://webdulichdanang.com/wp-content/uploads/2021/07/cau-tran-thi-ly.jpeg\" height=\"666\" width=\"1000\"><em>Cầu Trần Thị Lý</em></p><h3><br></h3><h3><strong>5. Cầu Tình Yêu – điểm đến lãng mạn dành cho các cặp tình nhân</strong></h3><p class=\"ql-align-justify\"><strong>Cầu Tình yêu Đà Nẵng</strong>&nbsp;nằm bắc qua sông Hàn, dịu dàng uốn cong hình vòng cung với chiều dài 68m. Được khánh thành vào giữa năm 2015, cầu tình yêu đón một lượng lớn khách thăm quan tới dự buổi lễ và 200 chiếc khóa tình yêu được phát miễn phí cũng nhanh chóng “cháy hàng” chỉ sau vài giờ.</p><p class=\"ql-align-center\"><img src=\"https://webdulichdanang.com/wp-content/uploads/2018/02/cau-tinh-yeu.jpg\" height=\"700\" width=\"1800\"><em>Cầu Tình Yêu</em></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong>Cầu Tình yêu</strong>&nbsp;lấy ý tưởng từ những cây cầu nổi tiếng trên thế giới như: Pont des Arts (Pháp), Hohenzollern (Đức), Tretriakovsky (Nga) hay Milvio (Ý). Khác nhau về thiết kế nhưng giữa những cây cầu này có chung một ý nghĩa, đó là những cặp đôi yêu nhau sẽ tìm tới đây treo chiếc ổ khóa có khắc tên 2 người thì tình yêu của họ sẽ mãi mãi bền chặt, thủy chung, không gì có thể tách rời.</p><h3><strong>6. Cầu vượt ngã ba Huế – cây cây 3 tầng đầu tiên tại Việt Nam</strong></h3><p>Với chiều cao lên đến 65m với ba tầng giao thông có các nhánh rẽ vòng xuyến có đường kính lên đến 150m, Cầu vượt Ngã ba Huế xứng đáng là công trình hiện đại nhất Việt Nam tính đến thời điểm hiện tại và trở thành biểu tượng kiến trúc mới của thành phố bên cạnh nhiều kỷ lục Việt Nam được xác lập: Cây cầu vượt ba tầng đầu tiên của Việt Nam, Cây câu vượt hiện đại nhất Việt Nam</p><p class=\"ql-align-center\"><img src=\"https://webdulichdanang.com/wp-content/uploads/2021/07/cau-vuot-nga-ba-hue.jpg\" height=\"666\" width=\"1000\"><em>Cầu Vượt Ngã Ba Huế</em></p><h3><strong>7. Cầu Vàng – nổi tiếng trên thế giới</strong></h3><p class=\"ql-align-justify\"><strong>Cây Cầu Vàng Đà Nẵng trên đỉnh Bà Nà Hill&nbsp;</strong>vừa được trình làng thơ mộng khiến cánh báo giới quốc tế không ngớt lời ca ngợi. Với thiết kế vô cùng ấn tượng, hai bàn tay rêu phong to lớn vươn ra từ thân núi nắm lấy tấm lụa vàng lơ lửng giữa trời, tuyệt tác này còn được mọi người nhắc đến với cái tên<strong>&nbsp;Cầu Bàn Tay.</strong></p><p class=\"ql-align-center\"><img src=\"https://webdulichdanang.com/wp-content/uploads/2019/03/cau-vang-banahill.jpg\" height=\"533\" width=\"800\"><em>Cầu Vàng Đà Nẵng</em></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Với độ dài 150 mét và nằm ở độ cao 1414 mét so với mực nước biển,&nbsp;<strong>Cây Cầu Vàng</strong>&nbsp;đã tạo nên một lối đi giữa không trung, giữa khung ảnh mờ sương như chốn bồng lai tiên cảnh của núi Bà Nà.</p><h3><strong>8.&nbsp;Cầu Nguyễn Văn Trỗi – cầu mang tính lịch sử của Đà Nẵng.</strong></h3><p>Được ví là nàng Lọ Lem của Đà Nẵng, cầu Nguyễn Văn Trỗi có tuổi đời ngót nghét nửa thế kỷ và được lãnh đạo thành phố Đà Nẵng giữ lại như một kỷ vật gắn liền với bao thăng trầm của thành phố.</p><p class=\"ql-align-center\"><img src=\"https://webdulichdanang.com/wp-content/uploads/2021/07/cau-nguyen-van-troi.jpg\" height=\"667\" width=\"1000\"><em>Cầu Nguyễn Văn Trỗi</em></p><p><br></p><p>Về kiến trúc, cây cầu này được thiết kế với 14 nhịp giàn thép Poni với độ dài hơn 500 mét. Đến nay, cây cầu này được xem là một kỷ vật của thành phố, và nó đã và đang góp phần phát triển du lịch của thành phố Đà Nẵng.</p><p>&nbsp;</p>",
+  "idUser": "637f330c450d2303a0dc82e0",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669730837642"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669730863407"
+    }
+  },
+  "__v": 0
+}]
